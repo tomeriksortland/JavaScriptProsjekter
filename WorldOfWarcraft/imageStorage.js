@@ -1,0 +1,1 @@
+let tormentImg = `<img src="https://render-eu.worldofwarcraft.com/icons/56/ability_xavius_tormentingdetonation.jpg"></img>`
